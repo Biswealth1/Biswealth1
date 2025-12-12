@@ -1,6 +1,7 @@
 # Hi, I'm Adeoye Abisola 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=FF5733&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%7C+React+%7C+Node.js)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=FF5733&center=true&vCenter=true&width=500&lines=Hi,+I'm+Adeoye+Abisola+%7C+Full-Stack+Developer)
+
 
 ---
 
@@ -22,11 +23,11 @@ When I’m not coding, I enjoy:
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AdeoyeAbisola-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/Hajarat Adeoye/)  
-[![Facebook](https://img.shields.io/badge/Facebook-AdeoyeAbisola-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/Hajarat Adeoye/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AdeoyeAbisola-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hajarat-adeoye/)  
+[![Facebook](https://img.shields.io/badge/Facebook-AdeoyeAbisola-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/hajarat.adeoye/)  
 [![Instagram](https://img.shields.io/badge/Instagram-AdeoyeAbisola-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/adeabisolaa/)  
-[![Twitter](https://img.shields.io/badge/Twitter-AdeoyeAbisola-blue?style=for-the-badge&logo=twitter)](https://twitter.com/adeoyeabisola2/)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-AdeoyeAbisola-green?style=for-the-badge&logo=whatsapp)](https://wa.me/+23475323213)
+[![Twitter](https://img.shields.io/badge/Twitter-AdeoyeAbisola-blue?style=for-the-badge&logo=twitter)](https://twitter.com/adeoyeabisola2)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-AdeoyeAbisola-green?style=for-the-badge&logo=whatsapp)](https://wa.me/+2347057323213)
 
 ---
 
